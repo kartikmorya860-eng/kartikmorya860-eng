@@ -4,8 +4,6 @@ Email Me 👉 ✉️ **kartikmorya860@gmail.com** For Collaboration/Project or A
 
 - 🔭 **I’m currently working on:** Devloping a contactless system for shopkeepers to identify medicines based on handgestures
 - 🌱 **I’m currently learning:**Data analytics || ML
-- 👯 **I’m looking to collaborate on:** Hand gesture
-- 🤔 **I’m looking for help with:** Your project here
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** kartikmorya860@gmail.com
 - 😄 **Pronouns:** Kartik
