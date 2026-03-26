@@ -6,7 +6,6 @@ Email Me 👉 ✉️ **kartikmorya860@gmail.com** For Collaboration/Project or A
 - 🌱 **I’m currently learning:**Data analytics || ML
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** kartikmorya860@gmail.com
-- 😄 **Pronouns:** Kartik
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
 ## 🌐 Socials:
